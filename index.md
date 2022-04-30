@@ -1,37 +1,128 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
+  <head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="chrome=1,IE=edge" />
+	<title>Default</title>
+	<style>
+		html {
+			height:100%;
+		}
+		body {
+			background-color:#CACACA;
+			margin:0;
+			height:100%;
+		}
+	</style>
+	<!-- copy these lines to your document head: -->
 
-You can use the [editor on GitHub](https://github.com/Collosus1/WhoWasPicked/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+	<meta name="viewport" content="user-scalable=yes, width=600" />
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+	<!-- end copy -->
+  </head>
+  <body>
+	<!-- copy these lines to your document: -->
 
-### Markdown
+	<div id="default_hype_container" class="HYPE_document" style="margin:auto;position:relative;width:600px;height:400px;overflow:hidden;">
+		<script type="text/javascript" charset="utf-8" src="Default.hyperesources/default_hype_generated_script.js?75448"></script>
+	</div>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+	<!-- end copy -->
+	
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+	<!-- text content for search engines: -->
 
-- Bulleted
-- List
+	<div style="display:none" aria-hidden=true>
 
-1. Numbered
-2. List
+		<div>See A
+</div>
+		<div>See C
+</div>
+		<div>Which Donor Did We Pick?</div>
+		<div>C
 
-**Bold** and _Italic_ and `Code` text
+</div>
+		<div> A</div>
+		<div>See B
+</div>
+		<div>B
+</div>
+		<div>Click the ball above to see if you’re right, or click the button below to see someone again</div>
+		<div>
+Back
+</div>
+		<div>                               Donor A
+Profile:
+*Ethnicity: Asian; East Indian
+*Hieght: 6’4
+*Weight: 190
+*Hair color: Black
+*Eye color: Brown
 
-[Link](url) and ![Image](src)
-```
+Personality:
+*Extrovert, talkative personality
+*Realistic and down-to-earth, thanks his mom for that
+*Knows how to have fun
+*Passionate about his work
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Education:
+*Bachelor Degree in Finance, passed level 1 CFA exam
+</div>
+		<div>
+Next Page
+</div>
+		<div>                                        Donor B
+Profile:
+*Ethnicity: White
+*Hieght: 6'0
+*Weight: 167
+*Hair color: Brown
+*Eye color: Brown
 
-### Jekyll Themes
+Personality: 
+*Easy going and open minded
+*Competitive
+*Difficult to upset
+*Sarcastic humor
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Collosus1/WhoWasPicked/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Education:
+*Bachelor’s in Biology, Doctorate in Pharmacy, Pharmacist
+</div>
+		<div>                                                Donor C
+Profile: 
+*Ethnicity: White
+*Height: 6’0
+*Weight: 175
+*Hair: Auburn
+*Eyes: Green
 
-### Support or Contact
+Personality:
+*Lighthearted
+*Fun-loving
+*Quirkey yet focused
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Education:
+* Bachelor’s in medanical engineering
+</div>
+		<div>See the finalists</div>
+		<div>
+Start
+</div>
+		<div>X</div>
+		<div>Ohhhhh… No… Ewww.</div>
+		<div>C</div>
+		<div>A</div>
+		<div>See who we picked
+</div>
+		<div>:)</div>
+		<div>You’re Right!</div>
+		<div>See Him Again
+</div>
+
+	</div>
+
+	<!-- end text content: -->
+
+  </body>
+</html>
